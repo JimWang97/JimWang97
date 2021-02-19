@@ -12,6 +12,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="mailto:striver13_wang@163.com">Email</a>
+  <a href="mailto:striver13_wang@163.com">Email</a> | 
   <a href="https://https://jimwang97.github.io/">HomePage</a>
 </p>
