@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/JimWang97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=JimWang97&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimWang97&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JimWang97&layout=compact&langs_count=8&theme=vue&count_private=true"/>
 </a>
 </p>
